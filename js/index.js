@@ -1,6 +1,6 @@
 
 let url = "https://api.openai.com/v1/images/generations";
-let apiKey = "OPEN_AI_API_KEY";
+let apiKey = "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";
 
 let imgGen = document.getElementById("imgGen");
 let loading = document.getElementById("loadingCircle");
